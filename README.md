@@ -1,3 +1,8 @@
+Google sucks so much that i have to fork another repo just to fix something.
+
+
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Banner.png" alt="YTLitePlus Banner" />
 </p>
